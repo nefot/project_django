@@ -8,3 +8,5 @@ class Project(models.Model):
     image = models.ImageField(upload_to='portfolio/images/')
     url = models.URLField(blank=True)
     time = models.DateTimeField(auto_now=False, default=timezone.now)
+
+
