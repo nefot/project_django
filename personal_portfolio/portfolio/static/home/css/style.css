@@ -1,0 +1,38 @@
+
+body{
+    background-color:;
+    color: black;
+}
+.col-4{
+    outline:1px;
+    outline-color: azure;
+    outline:auto;
+    padding:30px;
+    /*box-sizing: border-box;*/
+    /*width: 931.41px;*/
+    /*height: 406px;*/
+    /*background: rgba(28, 30, 32, 0.43);*/
+    /*border-radius: 23px;*/
+    /*max-width: 500px;*/
+    margin:10px;
+    /*text-align: center;*/
+    /*height: max-content;*/
+    /*border-bottom-style: ridge;*/
+    /*border-block-width: 10px;*/
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    font-variant-caps: petite-caps;
+}
+.color {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.col{
+        flex: 0 0 auto;
+    width: 33.3333333333%;
+}
