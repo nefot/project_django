@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57ce22a6-8226-406f-ba10-fc2167ac2f04" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/personal_portfolio/portfolio/static/home/img/bg1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/personal_portfolio/blog/templates/blog/all_blogs.html" beforeDir="false" afterPath="$PROJECT_DIR$/personal_portfolio/blog/templates/blog/all_blogs.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/personal_portfolio/blog/templates/blog/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/personal_portfolio/blog/templates/blog/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/personal_portfolio/blog/templates/blog/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/personal_portfolio/blog/templates/blog/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal_portfolio/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/personal_portfolio/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal_portfolio/personal_portfolio/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/personal_portfolio/personal_portfolio/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/personal_portfolio/portfolio/static/home/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/personal_portfolio/portfolio/static/home/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/personal_portfolio/portfolio/templates/home/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/personal_portfolio/portfolio/templates/home/home.html" afterDir="false" />
     </list>
@@ -94,6 +95,7 @@
       <workItem from="1667913054301" duration="92000" />
       <workItem from="1667913317706" duration="16697000" />
       <workItem from="1667933465577" duration="12865000" />
+      <workItem from="1670159445324" duration="3425000" />
     </task>
     <task id="LOCAL-00001" summary="самые тупые чмо на планете">
       <created>1667922161779</created>
